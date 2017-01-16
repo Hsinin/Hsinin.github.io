@@ -4,23 +4,23 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: blog
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "王鑫的个人博客"
+keywords: 码志, Hsin wang, mzlogin, mazhuang
 favicon: /favicon.ico
-timezone: Asia/Shanghai
+timezone: Asia/Nanjin
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+author: Hsin wang
+organization: Fnst,Co.,Ltd
+organization_url: http://www.fujitsu.com/cn/fnst/com
+location: Nanjin, China
+email: 15951651598@163.com
 
 # ---------------- #
 #    Navigation    #
