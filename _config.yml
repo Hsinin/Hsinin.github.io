@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://hsinin.github.io
 date_format: "ordinal"
 title: blog
 subtitle: "打码改变人生"
 description: "王鑫的个人博客"
-keywords: 码志, Hsin wang, mzlogin, mazhuang
+keywords: 
 favicon: /favicon.ico
 timezone: Asia/Nanjing
 encoding: "utf-8"
@@ -82,12 +82,12 @@ repository: hsinin/hsinin.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: hsinin
+douban_username: 
+facebook_username:
+weibo_username:
+zhihu_username:
+twitter_username:
 
 # ---------------- #
 #      Comments    #
