@@ -56,6 +56,7 @@ libvirt是目前使用最为广泛的对KVM虚拟机进行管理的工具和API�
 ![libvirt](/images/virtualization/wKioL1WdD72RRy8mAAIuDm6sVAY591.jpg)
 
 ### Node/Hypervisor/Domain
+
 1. 节点（Node）：一个物理机器，上面可能运行着多个虚拟客户机。Hypervisor和Domain都运行在Node之上。
 
 2. Hypervisor：也称虚拟机监控器（VMM），如KVM、Xen、VMware、Hyper-V等，是虚拟化中的一个底层软件层，
