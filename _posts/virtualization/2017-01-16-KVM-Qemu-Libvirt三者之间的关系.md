@@ -66,4 +66,4 @@ libvirt是目前使用最为广泛的对KVM虚拟机进行管理的工具和API�
 
 三者的关系可以简单用下面的图来表示：
 
-![关系](/images/virtualization/libvirt-node-hypervisor-domain.jpg)
+![](/images/virtualization/libvirt-node-hypervisor-domain.jpg)
