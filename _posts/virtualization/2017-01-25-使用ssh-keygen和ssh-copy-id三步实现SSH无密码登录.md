@@ -5,6 +5,7 @@
 *假设，存在HostA和HostB两台Host，那么在HostA上可以执行下列命令进行无密码登录设置。*
 
 1. 在HostA上创建公钥和密钥（一直按Enter）
+
 ```
 [root@HostA]# ssh-keygen
 Generating public/private rsa key pair.
@@ -18,6 +19,7 @@ The key fingerprint is:
 ```
 
 2. 用ssh-copy-id将公钥复制到远程机器中
+
 ```
 [root@HostB]# ssh-copy-id root@HostB_IP
 ```
